@@ -1,0 +1,4 @@
+# dev-requirements.in
+-r requirements.txt
+pre-commit==2.10.1
+ipython==7.20.0
